@@ -1,11 +1,11 @@
 {
   "name": "hello-electron",
-  "version": "1.0.0",
-  "description": "Hello, electron ==",
-  "main": "main.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "author": "",
-  "license": "ISC"
+  "version": "0.1.0",
+  "description": "hello, electron",
+  "main": "src/main.js",
+  "author": "S-Amemiya",
+  "license": "ISC",
+  "dependencies": {
+    "electron-prebuilt": "^0.34.1"
+  }
 }
