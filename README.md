@@ -2,6 +2,6 @@ Hello, electron
 ==
 
 ```
-npm -g install electron-prebuilt
+npm install
 electron .
 ```
